@@ -1,0 +1,4 @@
+This is a repository where I decompile games, and upload them as HTML files.
+
+IMPORTANT:
+I DO NOT, NOR HAVE I EVER CLAIMED THAT I CREATED, MODIFIED, OR EDITED ANY GAMES, OR PROGRAMS IN THIS REPOSITORY
